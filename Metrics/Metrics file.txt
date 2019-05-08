@@ -1,0 +1,2 @@
+A media quadratica calculada de erro para o arquivo do dia Wed_08 : 0.0443480298279005
+ A media quadratica calculada de erro para o arquivo do dia Wed_08 : 0.0467195991030713
